@@ -1,0 +1,15 @@
+{
+  "name": "fortune-cookie",
+  "version": "1.0.0",
+  "description": "Assignment 8 - Custom Modules",
+  "license": "ISC",
+  "author": "Neebin Buswa",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
